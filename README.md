@@ -13,7 +13,7 @@ DMM版シャニソンでは、Alt+Enterで全画面化とウィンドウモー�
 
 ## 使い方
 
-1. [SfP_Rewrite_Reg.bat](!https://github.com/megane2501h/SfP-resolution/releases/download/v0.0.1/SfP_Rewrite_Reg.bat)をダウンロードします。
+1. [SfP_Rewrite_Reg.bat](https://github.com/megane2501h/SfP-resolution/releases/download/v0.0.1/SfP_Rewrite_Reg.bat)をダウンロードします。
 1. SfP_Rewrite_Reg.batをダブルクリックします。以上。
 
 ## もう少し凝った使い方
